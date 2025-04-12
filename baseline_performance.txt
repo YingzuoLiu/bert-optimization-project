@@ -1,0 +1,5 @@
+model: BERT-base-uncased (Baseline)
+training_time_seconds: 6242.492310285568
+inference_time_seconds: 5.049875497817993
+validation_accuracy: 0.9185779816513762
+validation_loss: 0.236464776200327

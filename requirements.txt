@@ -1,0 +1,26 @@
+# 基础依赖
+tensorflow==2.10.0
+torch==2.0.0
+transformers==4.28.1
+numpy>=1.22.0
+pandas>=1.5.0
+matplotlib>=3.6.0
+tqdm>=4.64.0
+scikit-learn>=1.1.0
+
+# 数据处理
+datasets>=2.10.0
+nltk>=3.7
+
+# 模型优化工具
+tensorflow-model-optimization>=0.7.0
+onnx>=1.13.0
+onnxruntime-gpu>=1.13.1
+tf2onnx>=1.13.0
+
+# 部署相关
+Flask>=2.2.0
+boto3>=1.26.0
+
+# 可视化与报告
+seaborn>=0.12.0
